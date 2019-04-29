@@ -1,4 +1,4 @@
-# Microsoft_Learning_material
+# DS_Learning_material
 Online Learning Materials
 > All these materials are from a variaty of online learning courses, thanks those people and teachers provided me with this treasured and useful knowledge, here I put all the materials I collect from every online courses.
 

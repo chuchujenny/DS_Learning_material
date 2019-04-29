@@ -13,3 +13,5 @@ Content:
 - Module 6: Introduction to Machine Learning
 - Final Exam and Survey
 - Get Microsoft Course Completion Certificate
+
+from https://github.com/MicrosoftLearning/Data-Science-Essentials

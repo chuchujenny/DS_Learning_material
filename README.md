@@ -15,3 +15,18 @@ Content:
 - Get Microsoft Course Completion Certificate
 
 from https://github.com/MicrosoftLearning/Data-Science-Essentials
+
+### 2. Microsoft: DAT210x Programming with Python for Data Science
+Content:
+- Start Here
+- The Big Picture
+- Data And Features
+- Exploring Data
+- Transforming Data
+- Data Modeling
+- Data Modeling II
+- Evaluating Data
+- Final Exam and Course Wrap-Up
+- Get Microsoft Course Completion Certificate
+
+from https://github.com/authman/DAT210x
